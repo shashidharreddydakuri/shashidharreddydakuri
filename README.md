@@ -2,12 +2,12 @@
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align='right' src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphy.gif" width="230">
+<img align='right' src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphy.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidharreddydakuri" alt="shashidharreddydakuri" /> </p>
 
 <img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/coffee.png" align="right" height="275" />
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<a href="https://shashidharreddydakuri.github.io/"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="center" width="60"></a>
 
 
 - 🌱 I’m currently learning **node, mongodb, MERN and PERN**
