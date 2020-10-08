@@ -31,7 +31,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashidharreddydakuri&show_icons=true" alt="shashidharreddydakuri" /></p>
-<a href="https://shashidharreddydakuri.github.io/"><img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/687474703a2f2f7777772e6a656e79616c657374696e612e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30352f7765622d646576656c6f706d656e742d31303234783538322e6a7067.png" align="center" width="300px" height="170px" /></a>
+<a href="https://shashidharreddydakuri.github.io/"><img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/687474703a2f2f7777772e6a656e79616c657374696e612e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30352f7765622d646576656c6f706d656e742d31303234783538322e6a7067.png" align="right" width="300px" height="170px" /></a>
 <p align="center">
 <a href="https://codepen.io/shashidharreddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shashidharreddy" height="30" width="30" /></a>
 <a href="https://dev.to/shashidharreddydakuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shashidharreddydakuri" height="30" width="30" /></a>
