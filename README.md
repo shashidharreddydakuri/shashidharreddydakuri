@@ -18,9 +18,11 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **d.shashidhar1996@gmail.com**
+- 📫 Reach out to me in my website [shashidharreddy](https://shashidharreddy.netlify.app/)
 
+<!--
 ### Blogs posts
+-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
