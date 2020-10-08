@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm shashidharreddy</h1>
+<h1 align="center"> नमस्ते 🙏, I'm shashidharreddy</h1>
+
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidharreddydakuri" alt="shashidharreddydakuri" /> </p>
 
