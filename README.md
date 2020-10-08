@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230">
+<img align='right' src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphy.gif" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidharreddydakuri" alt="shashidharreddydakuri" /> </p>
 
