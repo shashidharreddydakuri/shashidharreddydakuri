@@ -4,11 +4,14 @@
 
 <img align='right' src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphy.gif" width="300">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidharreddydakuri" alt="shashidharreddydakuri" /> </p>
 
-<img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/coffee.png" align="right" height="275" />
-<a href="https://shashidharreddy.netlify.app/"><img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphygroup.gif" align="center" width="60"></a>
 
+<img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/coffee.png" align="right" height="275" />
+<!--
+<a href="https://shashidharreddy.netlify.app/"><img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphygroup.gif" align="center" width="60"></a>
+-->
 
 - 🌱 I’m currently learning **node, mongodb, MERN and PERN**
 
@@ -32,7 +35,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashidharreddydakuri&show_icons=true" alt="shashidharreddydakuri" /></p>
+<!--
 <a href="https://shashidharreddydakuri.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>
+-->
 <p align="center">
 <a href="https://codepen.io/shashidharreddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shashidharreddy" height="30" width="30" /></a>
 <a href="https://dev.to/shashidharreddydakuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shashidharreddydakuri" height="30" width="30" /></a>
