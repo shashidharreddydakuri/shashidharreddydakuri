@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/2x/javascript.png" alt="javascript" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> 
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/2x/mongodb.png" alt="mongodb" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
