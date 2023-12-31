@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते 🙏, I'm shashidharreddy</h1>
 
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Bharat (India)</h3>
 
 <img align='right' src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphy.gif" width="300">
 
