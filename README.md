@@ -13,7 +13,7 @@
 <a href="https://shashidharreddy.netlify.app/"><img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphygroup.gif" align="center" width="60"></a>
 -->
 
-- 🌱 I’m currently learning **node, mongodb, MERN and PERN**
+- 🌱 I’m a Backend developer with **nodejs, postgresql, sql server and .net core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashidharreddydakuri](https://github.com/shashidharreddydakuri)
 
