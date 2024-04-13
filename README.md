@@ -40,6 +40,8 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade1-hero_RWOm7e:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=75" alt="SQLServer" width="50" height="50"/> 
+  
   
   </p>
   <!--
