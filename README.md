@@ -29,6 +29,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,cs,dotnet,aws,azure,git,postgres,nginx,postman,visualstudio,vscode)](https://skillicons.dev)
+<!--
 <p align="inline">
   <img src="https://img.icons8.com/color/2x/javascript.png" alt="javascript" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
@@ -44,6 +46,7 @@
   
   
   </p>
+  -->
   <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashidharreddydakuri&layout=compact&hide=html" alt="shashidharreddydakuri" /></p>
 -->
