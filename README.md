@@ -1,6 +1,6 @@
-<h1 align="center"> नमस्ते 🙏, I'm shashidharreddy</h1>
+<h1 align="center"> नमस्ते 🙏, I'm Shashidhar</h1>
 
-<h3 align="center">A passionate fullstack developer from Bharat (India)</h3>
+<h3 align="center">A passionate Software developer from Bharat (India)</h3>
 
 <img align='right' src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphy.gif" width="300">
 
@@ -13,7 +13,7 @@
 <a href="https://shashidharreddy.netlify.app/"><img src="https://github.com/shashidharreddydakuri/shashidharreddydakuri/blob/master/assets/giphygroup.gif" align="center" width="60"></a>
 -->
 
-- 🌱 I’m a Backend developer with **nodejs, postgresql, sql server and .net core**
+- 🌱 I’m a Senior consultant with **nodejs, postgresql, sql server and .net core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashidharreddydakuri](https://github.com/shashidharreddydakuri)
 
